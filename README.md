@@ -1,4 +1,5 @@
 # Sistema de Download de Thumbnail de Vídeos do Youtube
+### Feito em JavaScript
 <p>Este sistema permite pegar e fazer o Download de Thumbnails de qualquer vídeo do Youtube</p>
 <a href="https://freddydanilo.github.io/sistemadownloadthumbnailvideoyoutube/">Clique aqui para testar o sistema</a>
 <p></p>
